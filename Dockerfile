@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:10.5
 RUN mkdir /app
 ADD quotes.json /app
 ADD package.json /app
