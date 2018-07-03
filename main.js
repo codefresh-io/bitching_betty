@@ -1,7 +1,7 @@
 const
     QUOTES = require('./quotes.json'),
     SECOND = 1000,
-    MAX_INTERVAL = 10 * SECOND,
+    MAX_INTERVAL = 5 * SECOND,
     MIN_INTERVAL = 0;
 
 const
